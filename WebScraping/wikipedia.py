@@ -15,9 +15,12 @@ parser = html.fromstring(respuesta.text)
 destacado = parser.get_element_by_id("Artículo_destacado")
 destacadoClass = parser.find_class("main-header")
 xpath = parser.xpath("//div[@id='Artículo_destacado']/text()")
+xpathDestacados = parser.xpath("//div[contain(@class, 'main-header)]/text()")
+
 
 print(destacado.text_content())
 print(xpath)
+# print(xpathDestacados)
 for element in destacadoClass:
     print(element.text_content())
     print("***********************************")
