@@ -17,6 +17,6 @@ livePorn.click()
 driver.implicitly_wait(10)
 
 elements = driver.find_element(By.CSS_SELECTOR, '[class="js-mxp"]')
-for elemet in elements
+#for elemet in elements
 
 
