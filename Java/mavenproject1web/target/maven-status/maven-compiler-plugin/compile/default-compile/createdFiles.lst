@@ -1,0 +1,4 @@
+servlets\SvUsuarios.class
+logica\usuario.class
+com\mycompany\mavenproject1web\JakartaRestConfiguration.class
+com\mycompany\mavenproject1web\resources\JakartaEE8Resource.class
