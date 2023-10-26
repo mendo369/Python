@@ -491,3 +491,144 @@ Read port: 50513
 DevTools listening on ws://127.0.0.1:50506/devtools/browser/8b4f9bd2-6763-4dba-83e2-1f379210404a
 1686090123630	Marionette	INFO	Stopped listening on port 50513
 Dynamically enable window occlusion 1
+1686232706559	geckodriver	INFO	Listening on 127.0.0.1:64022
+1686232709650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofile4A6sRH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686232709911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686232709916	Marionette	INFO	Listening on port 64034
+Read port: 64034
+WebDriver BiDi listening on ws://127.0.0.1:64023
+1686232710041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64023/devtools/browser/69244c47-f238-44a2-953e-4aa8bbf840c1
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686232725342	Marionette	INFO	Stopped listening on port 64034
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1686233170298	geckodriver	INFO	Listening on 127.0.0.1:64208
+1686233173334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileHI4KTW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686233173599	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686233173605	Marionette	INFO	Listening on port 64218
+Read port: 64218
+WebDriver BiDi listening on ws://127.0.0.1:64209
+1686233173733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64209/devtools/browser/1c579ec9-8bb0-4ced-adfe-04fe1f99f9ea
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 4498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686233466547	Marionette	INFO	Stopped listening on port 64218
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ngs: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686233215141	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686233215145	Marionette	INFO	Listening on port 64316
+Read port: 64316
+WebDriver BiDi listening on ws://127.0.0.1:64307
+1686233215289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64307/devtools/browser/50d180d0-2a75-4ee2-82e4-f087cc107b01
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 3634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 4196 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686233465565	Marionette	INFO	Stopped listening on port 64316
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ngs: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686233283993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686233283997	Marionette	INFO	Listening on port 64435
+Read port: 64435
+WebDriver BiDi listening on ws://127.0.0.1:64426
+1686233284134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64426/devtools/browser/b3171734-5aff-4f7f-82c6-eedb39947220
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 1218 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686233464337	Marionette	INFO	Stopped listening on port 64435
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ngs: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686233430731	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686233430735	Marionette	INFO	Listening on port 64552
+Read port: 64552
+WebDriver BiDi listening on ws://127.0.0.1:64543
+1686233430877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64543/devtools/browser/6bfad3de-206f-4ef9-b411-ebf93db8b709
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 7693 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686233471135	Marionette	INFO	Stopped listening on port 64552
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1686233473394	geckodriver	INFO	Listening on 127.0.0.1:64649
+1686233476481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofile1TNc7K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686233476729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686233476734	Marionette	INFO	Listening on port 64659
+Read port: 64659
+WebDriver BiDi listening on ws://127.0.0.1:64650
+1686233476873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64650/devtools/browser/76b4c401-6170-483b-9ff1-7f5b597aa500
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 4732 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686237573541	Marionette	INFO	Stopped listening on port 64659
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofileD1THSc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686233597922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686233597927	Marionette	INFO	Listening on port 64786
+Read port: 64786
+WebDriver BiDi listening on ws://127.0.0.1:64777
+1686233598048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64777/devtools/browser/ef61dbf8-d4a5-4824-9bcb-568de4edef07
+JavaScript error: https://www.cursosdev.com/js/myapp-min.js, line 1: TypeError: i is null
+JavaScript error: https://www.cursosdev.com/js/contacts-min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 80: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=233
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686233604478	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1686233604804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 6518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/F23xA4-E8U0dLsM7Ua-M74A0tuvycQb5txb3FNVg6II.js line 2 > eval line 1626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686233622406	Marionette	INFO	Stopped listening on port 64786
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
